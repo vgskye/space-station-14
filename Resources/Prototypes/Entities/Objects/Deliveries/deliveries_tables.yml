@@ -87,6 +87,7 @@
       tableId: RandomSafeSyringeTable
     - !type:NestedSelector
       tableId: UncommonLetterBundleTable
+    - id: SyndicateBusinessCard # ominous!
     - id: SpaceCash100
     - id: Joint
 
